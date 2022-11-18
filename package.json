@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "canvas": "^2.10.2",
+    "discord.js": "^13.8.1",
+    "fs": "^0.0.1-security",
+    "install": "^0.13.0",
+    "mongoose": "^6.0.13",
+    "simple-discord.db": "^0.1.0"
+  }
+}
